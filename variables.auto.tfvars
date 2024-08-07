@@ -1,0 +1,6 @@
+environment = "prod"
+application = "myapp"
+ado = "cloud"
+location = "usgovvirginia"
+subscription_id = "<redacted>"
+tenant_id = "<redacted"
